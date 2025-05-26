@@ -1,0 +1,346 @@
+New video from Developer Voices @ 1970-01-20 16
+Last video check was at 2024-07-08 09:08
+Last video check was at 2024-07-08 09:09
+New video from Prime Time-agen @ 2024-07-08 09:09
+Last video check was at 2024-07-08 09:11
+Last video check was at 2024-07-08 09:12
+
+Last video check was at 2024-07-08 09:21
+
+Last video check was at 2024-07-08 09:25
+
+Last video check was at 2024-07-08 09:25
+
+Last video check was at 2024-07-08 09:26
+
+Last video check was at 2024-07-08 09:27
+
+Last video check was at 2024-07-08 09:27
+
+Last video check was at 2024-07-08 09:28
+Last video check was at 2024-07-08 09:28
+Last video check was at 2024-07-08 09:29
+Last video check was at 2024-07-08 09:30
+Last video check was at 2024-07-08 09:30
+Last video check was at 2024-07-08 09:35
+New video from TJ Devries @ 2024-07-08 09:35
+Last video check was at 2024-07-08 09:35
+Last video check was at 2024-07-08 09:37
+Last video check was at 2024-07-08 09:38
+Last video check was at 2024-07-08 09:39
+Last video check was at 2024-07-08 09:40
+Last video check was at 2024-07-08 09:41
+Last video check was at 2024-07-08 09:42
+Last video check was at 2024-07-08 09:43
+Last video check was at 2024-07-08 09:44
+Last video check was at 2024-07-08 09:45
+Last video check was at 2024-07-08 09:46
+Last video check was at 2024-07-08 09:47
+Last video check was at 2024-07-08 09:48
+Last video check was at 2024-07-08 09:49
+Last video check was at 2024-07-08 09:50
+Last video check was at 2024-07-08 09:51
+Last video check was at 2024-07-08 09:53
+Last video check was at 2024-07-08 09:54
+Last video check was at 2024-07-08 09:55
+Last video check was at 2024-07-08 09:56
+Last video check was at 2024-07-08 09:57
+Last video check was at 2024-07-08 09:58
+Last video check was at 2024-07-08 09:59
+Last video check was at 2024-07-08 10:00
+Last video check was at 2024-07-08 10:01
+Last video check was at 2024-07-08 10:02
+Last video check was at 2024-07-08 10:03
+Last video check was at 2024-07-08 10:04
+Last video check was at 2024-07-08 10:05
+Last video check was at 2024-07-08 11:42
+Last video check was at 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUXuqSBlHAE6Xw-yeJA0Tunw&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Linus Tech Tips @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40Level1Techs&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Level 1 Techs @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUhIs72whgZI9w6d6FhwGGHA&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from GamersNexus @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40ThePrimeTimeagen&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Prime Time-agen @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUvWWf-LYjaujE50iYai8WgQ&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Paul's Hardware @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40t3dotgg&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Theo Browne @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40TinaHuang1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Tina Huang @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40CraftComputing&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Craft Computing @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UU6biysICWOJ-C3P4Tyeggzg&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Low Level Learning @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40FrontendMasters&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Frontend Masters @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUtuO2h6OwDueF7h3p8DYYjQ&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Theo Browne Rants @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUOWcZ6Wicl-1N34H0zZe38w&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Level 1 Linux @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UU_x5XG1OV2P6uZZ5FSM9Ttw&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Google Developers @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40ServeTheHomeVideo&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Serve The Home @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40Jayztwocents&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Jayz Two Cents @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40DeveloperVoices&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Developer Voices @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40NVIDIA-Studio&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from NVIDIA Design Studio @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40OnurMutluLectures&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Onur Mutlu @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40briantwill&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Brian Will @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40GingerGames&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Ginger Bill @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40ActuallyHardcoreOverclocking&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Actually Hardcore Overclocking @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40NVIDIADeveloper&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from NVIDIA Developer @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40CodeAesthetic&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Code Aesthetic @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40adventuresinnodeland&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Matteo Collina @ 2024-07-08 12:10
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40StorageReview&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+New video from Storage Review @ 2024-07-08 12:10
+Last video check was at 2024-07-08 14:48
+New video from Linus Tech Tips @ 2024-07-08 14:48
+New video from Level 1 Techs @ 2024-07-08 14:48
+New video from GamersNexus @ 2024-07-08 14:48
+New video from Prime Time-agen @ 2024-07-08 14:48
+New video from Paul's Hardware @ 2024-07-08 14:48
+New video from Theo Browne @ 2024-07-08 14:48
+New video from Tina Huang @ 2024-07-08 14:48
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUkbwOi_U5CBkevtlVhuzWnA&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 14:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40GamersNexus&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 15:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40Level1Techs&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 15:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUXuqSBlHAE6Xw-yeJA0Tunw&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 16:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40Level1Techs&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 16:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 17:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUXuqSBlHAE6Xw-yeJA0Tunw&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 17:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 18:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40ThePrimeTimeagen&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 18:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 19:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUXuqSBlHAE6Xw-yeJA0Tunw&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 19:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40Level1Techs&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 20:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 20:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUXuqSBlHAE6Xw-yeJA0Tunw&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 21:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUXuqSBlHAE6Xw-yeJA0Tunw&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 21:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 22:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 22:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 23:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUXuqSBlHAE6Xw-yeJA0Tunw&maxResults=1&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-08 23:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40GamersNexus&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-09 00:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40Level1Techs&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-09 00:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-09 01:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40Level1Techs&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-09 01:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40Level1Techs&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-09 02:19
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-09 02:49
+There was an error getting YouTube Data
+<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%40LinusTechTips&key=AIzaSyAU523FX0kHP11IwJLcn2sWtvbRH5ovlzw&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+Last video check was at 2024-07-09 03:19
+New video from Level 1 Techs @ 2024-07-09 03:19
+New video from TJ Devries @ 2024-07-09 03:19
+New video from Craft Computing @ 2024-07-09 03:19
+New video from Low Level Learning @ 2024-07-09 03:19
+New video from Frontend Masters @ 2024-07-09 03:19
+New video from Theo Browne Rants @ 2024-07-09 03:19
+New video from Level 1 Linux @ 2024-07-09 03:19
+New video from Google Developers @ 2024-07-09 03:19
+New video from Serve The Home @ 2024-07-09 03:19
+New video from Jayz Two Cents @ 2024-07-09 03:19
+New video from Developer Voices @ 2024-07-09 03:19
+New video from NVIDIA Design Studio @ 2024-07-09 03:19
+New video from Onur Mutlu @ 2024-07-09 03:19
+New video from Brian Will @ 2024-07-09 03:19
+New video from Ginger Bill @ 2024-07-09 03:19
+New video from Actually Hardcore Overclocking @ 2024-07-09 03:19
+New video from NVIDIA Developer @ 2024-07-09 03:19
+New video from Code Aesthetic @ 2024-07-09 03:19
+New video from Matteo Collina @ 2024-07-09 03:19
+New video from Storage Review @ 2024-07-09 03:19
+Last video check was at 2024-07-09 03:50
+Last video check was at 2024-07-09 04:20
+Last video check was at 2024-07-09 04:50
+Last video check was at 2024-07-09 05:20
+Last video check was at 2024-07-09 05:50
+Last video check was at 2024-07-09 06:20
+New video from Theo Browne @ 2024-07-09 06:20
+Last video check was at 2024-07-09 06:50
+Last video check was at 2024-07-09 07:20
+Last video check was at 2024-07-09 07:50
+Last video check was at 2024-07-09 08:21
+Last video check was at 2024-07-09 08:51
+New video from Prime Time-agen @ 2024-07-09 08:51
+Last video check was at 2024-07-09 09:21
+New video from Prime Time-agen @ 2024-07-09 09:21
+Last video check was at 2024-07-09 09:51
+New video from GamersNexus @ 2024-07-09 09:51
+Last video check was at 2024-07-09 10:21
+Last video check was at 2024-07-09 10:51
+New video from TJ Devries @ 2024-07-09 10:51
+Last video check was at 2024-07-09 11:21
+Last video check was at 2024-07-09 11:25
+Last video check was at 2024-07-09 11:55
+Last video check was at 2024-07-09 12:25
+Last video check was at 2024-07-09 12:55
+Last video check was at 2024-07-09 13:25
+Last video check was at 2024-07-09 13:55
+New video from Linus Tech Tips @ 2024-07-09 13:55
+Last video check was at 2024-07-09 14:25
+New video from Prime Time-agen @ 2024-07-09 14:25
+New video from NVIDIA @ 2024-07-09 14:25
+Last video check was at 2025-05-26 17:29
+New video from Linus Tech Tips @ 2025-05-26 17:29
+New video from Level 1 Techs @ 2025-05-26 17:29
+New video from GamersNexus @ 2025-05-26 17:29
+New video from Paul's Hardware @ 2025-05-26 17:29
+New video from Serve The Home @ 2025-05-26 17:29
+New video from Jayz Two Cents @ 2025-05-26 17:29
+New video from Actually Hardcore Overclocking @ 2025-05-26 17:29
+New video from Storage Review @ 2025-05-26 17:29
+New video from Redhat @ 2025-05-26 17:29
+New video from Craft Computing @ 2025-05-26 17:29
+New video from Level 1 Linux @ 2025-05-26 17:29
+New video from Lawrence Systems @ 2025-05-26 17:29
+New video from Network Chuck @ 2025-05-26 17:29
+New video from Prime Time-agen @ 2025-05-26 17:29
+New video from Theo Browne @ 2025-05-26 17:29
+New video from Tina Huang @ 2025-05-26 17:29
+New video from The Vim-eagen @ 2025-05-26 17:29
+New video from Backend Banter @ 2025-05-26 17:29
+New video from TJ Devries @ 2025-05-26 17:29
+New video from The Prime-agen @ 2025-05-26 17:29
+There was an error getting YouTube Data
+'items'
+Last video check was at 2025-05-26 17:29
+Last video check was at 2025-05-26 17:32
+New video from Linus Tech Tips @ 2025-05-26 17:32
+New video from Level 1 Techs @ 2025-05-26 17:32
+New video from GamersNexus @ 2025-05-26 17:32
+New video from Paul's Hardware @ 2025-05-26 17:32
+New video from Serve The Home @ 2025-05-26 17:32
+New video from Jayz Two Cents @ 2025-05-26 17:32
+New video from Storage Review @ 2025-05-26 17:32
+New video from Redhat @ 2025-05-26 17:32
+New video from Lawrence Systems @ 2025-05-26 17:32
+New video from Prime Time-agen @ 2025-05-26 17:32
+New video from Theo Browne @ 2025-05-26 17:32
+New video from Tina Huang @ 2025-05-26 17:32
+New video from The Vim-eagen @ 2025-05-26 17:32
+New video from Backend Banter @ 2025-05-26 17:32
+New video from TJ Devries @ 2025-05-26 17:32
+There was an error getting YouTube Data
+'items'
+Last video check was at 2025-05-26 17:33
+Last video check was at 2025-05-26 17:33
+Last video check was at 2025-05-26 17:34
+New video from Linus Tech Tips @ 2025-05-26 17:34
+New video from Level 1 Techs @ 2025-05-26 17:34
+New video from GamersNexus @ 2025-05-26 17:34
+Last video check was at 2025-05-26 17:41
+New video from Paul's Hardware @ 2025-05-26 17:41
+New video from Serve The Home @ 2025-05-26 17:41
+New video from Jayz Two Cents @ 2025-05-26 17:41
+Last video check was at 2025-05-26 17:54
+New video from Linus Tech Tips @ 2025-05-26 17:54
+New video from Level 1 Techs @ 2025-05-26 17:54
+New video from GamersNexus @ 2025-05-26 17:54
+Last video check was at 2025-05-26 17:58
+New video from Paul's Hardware @ 2025-05-26 17:58
+Last video check was at 2025-05-26 17:58
+New video from Serve The Home @ 2025-05-26 17:58
+Last video check was at 2025-05-26 17:59
+New video from Jayz Two Cents @ 2025-05-26 17:59
+Last video check was at 2025-05-26 17:59
+New video from Storage Review @ 2025-05-26 17:59
+Last video check was at 2025-05-26 18:02
+New video from Redhat @ 2025-05-26 18:02
+New video from Lawrence Systems @ 2025-05-26 18:02
+New video from Prime Time-agen @ 2025-05-26 18:02
+New video from Theo Browne @ 2025-05-26 18:02
+New video from Tina Huang @ 2025-05-26 18:02
+New video from The Vim-eagen @ 2025-05-26 18:02
+New video from Backend Banter @ 2025-05-26 18:02
+New video from TJ Devries @ 2025-05-26 18:02
+There was an error getting YouTube Data
+'items'
+Last video check was at 2025-05-26 18:02
+New video from Linus Tech Tips @ 2025-05-26 18:02
