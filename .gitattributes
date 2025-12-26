@@ -1,0 +1,13 @@
+# GitHub Linguist overrides to improve language stats
+# Mark images and generated/state files as vendored so they don't skew language percentages
+*.webp linguist-vendored
+*.png linguist-vendored
+pictures/** linguist-vendored
+log_file.txt linguist-vendored
+discord_vid_state.json linguist-vendored
+
+# Ensure Python files are recognized as Python
+*.py linguist-language=Python
+
+# If you add build artifacts or other large binaries, mark them as vendored too
+# e.g. dist/** linguist-vendored
