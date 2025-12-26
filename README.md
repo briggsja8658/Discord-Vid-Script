@@ -1,11 +1,12 @@
 ﻿# Discord Vid Script
 - High level
-    * Monitors a list of YouTube channels and posts new uploads to Discord using webhooks. Keeps last-seen video IDs in a local JSON file to avoid duplicates.
+    * Looking to expose and immerse students in the world of technology passively. Being that I communicate with students on discord anyways. This was an opportunistic script to give students more discoverability to tech content
+    * There was a mental health channel that was largely a failed experiment. However, its possible that student got value from it and didn't want to admit it.  
 
 
 # Features
 - Primary Goal
-    * Catch new uploads and announce them in category-specific Discord channels (hardware, networking, programming, mental-health, test).
+    * Catch new uploads and announce them in category-specific Discord channels (hardware, networking, programming, mental-health).
 
 - Tracking
     * Stores last-seen video per channel in `discord_vid_state.json`.
